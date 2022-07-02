@@ -4,57 +4,27 @@
 body {
   font-size: 14px;
 }
-.v58_12 {
-  width: 696px;
-  height: 852px;
+.v66_120 {
+  width: 700px;
+  height: 3487px;
   background: rgba(255,255,255,1);
+  margin: 10px;
   opacity: 1;
-  position: relative;
+  position: absolute;
   top: 0px;
   left: 0px;
   overflow: hidden;
 }
-.vlogo {
-  /*width: 65px;
-  height: 61px;
-  */
-  width: 100%;
+.v66_121 {
+  width: 700px;
   height: 100%;
-  max-width: 100px;
-  max-height: 100px;
-  background: url("../images/logo.png");
+  background: url("../images/v66_121.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 32px;
-  left: 33px;
-  overflow: hidden;
-}
-.vdoctor {
-  width: 694px;
-  height: 235px;
-  background: url("../images/doctor.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 200px;
+  top: 0px;
   left: 0px;
-  overflow: hidden;
-}
-.vhosptext {
-  width: 197px;
-  height: 48px;
-  background: url("../images/hosptext.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 38px;
-  left: 200px;
   overflow: hidden;
 }
